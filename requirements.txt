@@ -1,0 +1,12 @@
+gradio
+transformers
+torch
+accelerate
+peft
+bitsandbytes
+datasets
+pdfplumber
+python-docx
+pydub
+whisper
+soundfile
